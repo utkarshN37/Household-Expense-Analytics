@@ -1,4 +1,12 @@
 # 🏠 Household Expense Analytics
+# 🏠 Household Expense Analytics
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+![EDA](https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-success)
 
 ## 📌 Project Overview
 
@@ -132,3 +140,19 @@ Household-Expense-Analytics/
 **Utkarsh Nagare**
 
 Aspiring Data Analyst | Python | SQL | Pandas | Power BI
+
+## 📈 Category Analysis
+
+![Category Analysis](images/category_analysis.png)
+
+## 👨‍👩‍👧‍👦 Member Analysis
+
+![Member Analysis](images/member_analysis.png)
+
+## 💳 Payment Mode Analysis
+
+![Payment Mode Analysis](images/payment_mode_analysis.png)
+
+## 📊 Distribution Analysis
+
+![Distribution Analysis](images/distribution_analysis.png)
